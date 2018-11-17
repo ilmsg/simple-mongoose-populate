@@ -1,0 +1,11 @@
+{
+  "name": "simple-mongoose",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "index": "node ./index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.3.12"
+  }
+}
